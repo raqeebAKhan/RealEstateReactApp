@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.617dc3cc.css",
+    "main.js": "/static/js/main.09a1960c.js",
+    "static/media/a4.jpg": "/static/media/a4.a704508fd7ef0bceab0a.jpg",
+    "static/media/a6.jpg": "/static/media/a6.384617e1d24f77e301e4.jpg",
+    "static/media/a2.jpg": "/static/media/a2.cfbd184eb81f3e77ce4a.jpg",
+    "static/media/agent11.webp": "/static/media/agent11.3f9d2ebf08fec0a00d3c.webp",
+    "static/media/house11.webp": "/static/media/house11.3f9d2ebf08fec0a00d3c.webp",
+    "static/media/a1.jpeg": "/static/media/a1.be5a73e37f6c863c6132.jpeg",
+    "static/media/agent2.jpg": "/static/media/agent2.788333513d8a8658d3e1.jpg",
+    "static/media/house2.jpg": "/static/media/house2.788333513d8a8658d3e1.jpg",
+    "static/media/agent8.jpg": "/static/media/agent8.cfe1db77d3c2ad9dc393.jpg",
+    "static/media/house8.jpg": "/static/media/house8.cfe1db77d3c2ad9dc393.jpg",
+    "static/media/house9.jpg": "/static/media/house9.0592ca2c05526606e187.jpg",
+    "static/media/agent3.jpg": "/static/media/agent3.e7d2f712a90c4dbee777.jpg",
+    "static/media/house3.jpg": "/static/media/house3.e7d2f712a90c4dbee777.jpg",
+    "static/media/a7.jpg": "/static/media/a7.4d7f2bbb9597f26a1f9d.jpg",
+    "static/media/agent6.jpg": "/static/media/agent6.851449c4e51594dadfc4.jpg",
+    "static/media/house6.jpg": "/static/media/house6.851449c4e51594dadfc4.jpg",
+    "static/media/a5.jpg": "/static/media/a5.1441aafdb94f63506088.jpg",
+    "static/media/agent4.jpg": "/static/media/agent4.c010e96ac6eade8d65d1.jpg",
+    "static/media/house4.jpg": "/static/media/house4.c010e96ac6eade8d65d1.jpg",
+    "static/media/agent5.jpeg": "/static/media/agent5.86fe1f5c937af220d8be.jpeg",
+    "static/media/house5.jpeg": "/static/media/house5.86fe1f5c937af220d8be.jpeg",
+    "static/media/a8.jpg": "/static/media/a8.c170012cdbc7f91ef278.jpg",
+    "static/media/logo.webp": "/static/media/logo.e380fb52179c27c7cac1.webp",
+    "static/media/agent7.jpg": "/static/media/agent7.6524e2afb483b3499b1f.jpg",
+    "static/media/house7.jpg": "/static/media/house7.6524e2afb483b3499b1f.jpg",
+    "static/media/agent12.jpg": "/static/media/agent12.d2e609f3bb014c3de645.jpg",
+    "static/media/house12.jpg": "/static/media/house12.d2e609f3bb014c3de645.jpg",
+    "static/media/agent10.jpg": "/static/media/agent10.56d3194ca2e171c1436a.jpg",
+    "static/media/house10.jpg": "/static/media/house10.56d3194ca2e171c1436a.jpg",
+    "index.html": "/index.html",
+    "main.617dc3cc.css.map": "/static/css/main.617dc3cc.css.map",
+    "main.09a1960c.js.map": "/static/js/main.09a1960c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617dc3cc.css",
+    "static/js/main.09a1960c.js"
+  ]
+}
