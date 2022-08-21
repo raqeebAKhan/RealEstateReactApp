@@ -1232,6 +1232,1861 @@ export const RenthouseData = [
   },
 },
 
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+  price: '350000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+  price: '350000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+  price: '355000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+  price: '390000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '265000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '465000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '455000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '495000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '475000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '468000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '488000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '498000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '466000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '369000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '315000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '325000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '345000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '385000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '395000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '375000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '266000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '290000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '218000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '278000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '254000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '167000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '144000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '156000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '115000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '165000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 36,
+  type: 'Apartment',
+  name: 'Apartment 18',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment6,
+  country: 'Karnataka',
+  address: '84 Woodland St. Cocoa, FL 32927',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2010',
+
+  price: '177000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '444000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '20000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '60000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '464000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '24000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '44000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 6,
+  type: 'House',
+  name: 'House 6',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: House6,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '6',
+  bathrooms: '3',
+  surface: '6200 sq ft',
+  year: '2014',
+  price: '445000',
+  agent: {
+    image: Agent6,
+    name: 'Karen Sorensen',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '120000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '320000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '220000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '220000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '120000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '120000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '120000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '220000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '220000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '320000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '320000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '320000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '420000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '420000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '420000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '460000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+
+{
+  id: 7,
+  type: 'Apartment',
+  name: 'Apartment 1',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment1,
+  country: 'Maharashtra',
+  address: '32 Pawnee Street Butte, MT 59701',
+  bedrooms: '2',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2012',
+  price: '500000',
+  agent: {
+    image: Agent7,
+    name: 'Jawhar Shamil Naser',
+    phone: '0123 456 78910',
+  },
+},
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '358000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '358000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '358000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '458000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '358000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '358000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '258000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '258000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '258000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '258000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '258000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '158000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '158000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '158000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '158000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '58000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '68000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '78000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+{
+  id: 20,
+  type: 'Apartment',
+  name: 'Apartment 20',
+  description:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+  image: Apartment8,
+  country: 'New Delhi',
+  address: 'Banagalore, 560051',
+  bedrooms: '3',
+  bathrooms: '1',
+  surface: '1200 sq ft',
+  year: '2021',
+  price: '88000',
+  agent: {
+    image: Agent8,
+    name: 'Varun Sharma',
+    phone: '0123 456 78910',
+  },
+
+  
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ];
